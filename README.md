@@ -16,7 +16,7 @@ LightGateway Plus (Solar) will be available on [https://shop.qrp-labs.com/aprs/]
 - Suitable for Open Source HAM Radio ESP32 projects like Meshtastic, TinyGS, LoRa APRS iGate & Digipeater, etc
 - Shipped with preloaded basic [LoRa APRS Software](https://github.com/lightaprs/LightLoRaAPRS/)(iGate or Digipeater)
 
-<img src="images/light_gateway_plus_v_1_0_ym3kcn-4.jpg" width="600">
+<img src="images/light_gateway_plus_v_1_0_ym3kcn-4.jpeg" width="600">
 
 - Compatible with 0.96 inch OLED Screen (VCC,GND,SCL,SDA) support (OLED screen not included)
 - Battery holder for two Li-Ion batteries (Batteries not included)
