@@ -19,7 +19,7 @@ LightGateway Plus (Solar) will be available on [https://shop.qrp-labs.com/aprs/]
 <img src="images/light_gateway_plus_v_1_0_ym3kcn-4.jpeg" width="600">
 
 - Compatible with 0.96 inch OLED Screen (VCC,GND,SCL,SDA) support (OLED screen not included)
-- Battery holder for two Li-Ion batteries (Batteries not included)
+- Battery holder for two 1S Li-Ion batteries (Batteries not included)
 
 <img src="images/light_gateway_plus_v_1_0_back.jpg" width="600">
 
@@ -35,7 +35,7 @@ LightGateway Plus (Solar) will be available on [https://shop.qrp-labs.com/aprs/]
 - **Ram** : 512 kB SRAM
 - **Operating Frequency** : 240 Mhz (Max)
 - **Operating Voltage** : 3.3 Volt
-- **Solar MPPT Input Voltage** : 5 Volt - 28 Volt via BarrelJack and Barrier Terminal
+- **Solar MPPT Input Voltage** : 5 Volt (min) - 28 (max) Volt via BarrelJack and Barrier Terminal
 - **Input Voltage** : 3.3 (min) - 5.5 (max) Volt via Battery Holder, 5 (min) - 5.5 (max) Volt  via USB Type C 
 - **Power Consumption (Deep Sleep)** : ~0.2 mA
 - **Power Consumption (Idle)** : ~65 mA
@@ -44,6 +44,8 @@ LightGateway Plus (Solar) will be available on [https://shop.qrp-labs.com/aprs/]
 - **LoRa Max Power** : 30dBm (configurable by code)
 - **LoRa Power Consumption (TX)** : ~110 mA (22dBm)
 - **Extended Pins** : I2C, I2S (in gpio pins, you can select random pins to use for I2S ), SPI, UART0, 14x GPIO Pin(includes SPI, Analog pins, Touch pins, gps uart pins), 3x Analog, 2x TOUCH, 2x CLK_OUT(in uart0 pins)
+
+<img src="images/light_gateway_plus_v_1_0_ym3kcn_4_setup3.jpeg" width="500">
 
 ## Support
 
