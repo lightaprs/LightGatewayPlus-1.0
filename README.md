@@ -1,6 +1,6 @@
 # LightGateway Plus (Solar)
 
-LightGateway Plus (Solar) is an ESP32-based development board featuring a SX1268 (433MHz) LoRa module and 2 dBi 433 MHz SMA antenna.
+LightGateway Plus (Solar) is an ESP32-based development board featuring a 1 Watt SX1268 (433MHz) LoRa module and 2 dBi 433 MHz SMA antenna.
 
 <img src="images/light_gateway_plus_v_1_0_pinout.png" width="600">
 
