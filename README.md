@@ -4,7 +4,7 @@ LightGateway Plus (Solar) is an ESP32-based development board featuring a 1 Watt
 
 <img src="images/light_gateway_plus_v_1_0_pinout.png" width="600">
 
-LightGateway Plus (Solar) will be available on [https://shop.qrp-labs.com/aprs/](https://shop.qrp-labs.com/aprs/) soon for order.
+LightGateway Plus (Solar) is available on [https://shop.qrp-labs.com/aprs/lightgatewayplus](https://shop.qrp-labs.com/aprs/lightgatewayplus) for order.
 
 **Important :** LightGateway Plus 1.0 operates on the amateur 70 cm (UHF) radio band with a 30 dBm output power, which typically requires an amateur radio license to operate in many countries. Therefore, if you are not a licensed HAM operator, please ensure to check local regulations and laws before purchasing the module.
 
